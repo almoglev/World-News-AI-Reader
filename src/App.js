@@ -56,8 +56,8 @@ function App() {
       <div className={classes.footer}>
         <Typography variant="body1" component="h2">
           Created by Almog Lev
-          (<a className={classes.link} href="https://www.linkedin.com/in/almoglev/" target='_blank'>LinkedIn</a> ,
-          <a className={classes.link} href="https://www.github.com/almoglev" target='_blank'> GitHub</a>)
+          (<a className={classes.link} href="https://www.linkedin.com/in/almoglev/" target='_blank' rel="noreferrer">LinkedIn</a> ,
+          <a className={classes.link} href="https://www.github.com/almoglev" target='_blank' rel="noreferrer"> GitHub</a>)
         </Typography>
       </div>
     ) : null}
