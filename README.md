@@ -10,7 +10,7 @@ This application is written in React, and it uses
 - __[NewsAPI](https://newsapi.org/)__ to fetch news from all over the world
 - __[Material UI](https://material-ui.com/)__ for designing the front end for react applications
 
-👉 [Click here](https://news-ai-reader.netlify.app/) for live demo!
+👉 __[Click here](https://news-ai-reader.netlify.app/)__ for live demo!
 
 
 ## How to Start :computer:
