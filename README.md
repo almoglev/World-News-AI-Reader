@@ -17,7 +17,7 @@ This application is written in React, and it uses
 
 ```sh
 # clone the git repo locally 
-git clone https://github.com/almoglev/World-News-AI-Reader.git
+git clone https://github.com/almoglev/World-News-AI-Reader
 
 # To install all the required dependencies
 yarn 
